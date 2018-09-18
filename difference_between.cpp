@@ -22,5 +22,6 @@ int main() {
 	
 	cout << "The difference between the numbers is: "
 	     << difference << endl;
-	
+
+	return 1;	
 }
